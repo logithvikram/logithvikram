@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logithvikram 
 - 👀 I’m interested in block chain,web 3,world economics. 
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on web 3 project.
 - 📫 How to reach me www.linkedin.com/in/ 
 logithvikramk14b173211
