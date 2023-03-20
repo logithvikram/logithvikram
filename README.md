@@ -2,7 +2,7 @@
 - 👀 I’m interested in block chain,web 3,world economics. 
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on web 3 project.
-- 📫 How to reach me [www.linkedin.com/in/logithvikramk14b173211](www.linkedin.com/in/logithvikramk14b173211)
+- 📫 How to reach me [www.linkedin.com/in/logithvikramk14b173211](https://www.linkedin.com/in/logithvikramk14b173211/)
 
 
 
